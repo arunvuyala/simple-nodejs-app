@@ -1,5 +1,5 @@
 # Simple Node.js Project
-# Updated again
+# Checking conflict
 ## Steps to run
 
 1. Install Node.js
